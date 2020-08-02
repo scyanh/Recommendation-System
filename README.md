@@ -17,6 +17,10 @@ Run kernel Python 3
 
 Introduction
 ---------------
+Notebook:
+https://github.com/scyanh/Recommendation-System/blob/master/Recommendation%20System.ipynb
+
+Slides:
 https://docs.google.com/presentation/d/1VLRyaPl1AQduGLeXNlLFg9Iv75JNr-hX9T148yBD11E/edit?usp=sharing
 
 
